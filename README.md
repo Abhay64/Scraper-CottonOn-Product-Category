@@ -1,4 +1,4 @@
-# Scraper-CottonOn-Product-Category
+# Scraper-for-CottonOn
 E-Commerce web-site scraper for search details and download in excel format. Code in python 3.6.2 library used BeautifulSoup, requests, re, workbook, csv
 # Getting Started
 In order to perform the code output please follow the steps given in the description.
