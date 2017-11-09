@@ -5,7 +5,7 @@ In order to perform the code output please follow the steps given in the descrip
 # Prerequisites
 Python 3.0+ [Download]
 # Steps to Run the Code
-Download the code script by clicking clone or download button.
-Download all the prerequisites shown in above section.
-Download all package used in code.
-Run the code.
+1. Download the code script by clicking clone or download button.
+2. Download all the prerequisites shown in above section.
+3. Download all package used in code.
+4. Run the code.
